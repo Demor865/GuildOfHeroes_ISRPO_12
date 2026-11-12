@@ -34,6 +34,6 @@ public class Weapon { // Класс оружие
         return $">>> {Name} <<<\n" +
                 $"Тип оружия - {Type}\n" +
                 $"Урон - {Damage}\n" +
-                $"Прочность - {Strength}\n";
+                $"Прочность - {Strength}";
     }
 }
